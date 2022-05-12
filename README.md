@@ -15,6 +15,7 @@ MemeMe covers many of the major UI components found in essentially every app. It
 ## User Interface 
 
 ## Meme Editor View
+![Simulator Screen Shot - iPhone 12 Pro - 2022-05-12 at 21 21 32](https://user-images.githubusercontent.com/92055081/168153542-a6541483-8fa9-478d-9c2b-7ae7f71567d0.png)
 
 
 
